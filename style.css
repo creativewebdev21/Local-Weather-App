@@ -1,0 +1,42 @@
+body {
+
+  font-family: 'VT323', monospace;
+  font-size: 150%;
+  text-align: center;
+  background-color: #495063;
+
+}
+
+#background {
+
+  position:absolute;
+
+  height:99%;
+  width:99%;
+
+}
+
+#icon-container {
+
+  height:auto;
+  width:98%;
+  padding-top: 20px;
+
+}
+
+#weather-icon {
+
+  height: 100%;
+
+}
+
+#content-box {
+
+  width: 35%;
+  height: auto;
+  background-color:#58FA82;
+  margin-left: 33%;
+  margin-top: 15%;
+  border-radius: 5%;
+  padding-bottom: 10px;
+}
